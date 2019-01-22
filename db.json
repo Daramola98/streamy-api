@@ -1,0 +1,48 @@
+{
+  "streams": [
+    {
+      "title": "Fortnite",
+      "description": "New Battle Mode",
+      "id": 1
+    },
+    {
+      "title": "Maximum Opacity",
+      "description": "New Movie Trailer",
+      "id": 2
+    },
+    {
+      "title": "Mortal Kombat",
+      "description": "Ninja vs SonicFox",
+      "id": 3
+    },
+    {
+      "title": "Mortal Kombat 11",
+      "description": "MK11 gameplay",
+      "id": 4
+    },
+    {
+      "title": "Jump Force",
+      "description": "Kaizen Gutsya",
+      "createdBy": "105924041864513892548",
+      "id": 5
+    },
+    {
+      "title": "BlackOut",
+      "description": "Winner of the blackout competition",
+      "createdBy": "105924041864513892548",
+      "id": 6
+    },
+    {
+      "title": "Fortnite Battle Royale",
+      "description": "Dara is Back wohoo",
+      "createdBy": "105924041864513892548",
+      "id": 8
+    },
+    {
+      "title": "Powerglide",
+      "description": "Rae Shremund live tour",
+      "createdBy": "105924041864513892548",
+      "id": 9
+    }
+  ]
+}
